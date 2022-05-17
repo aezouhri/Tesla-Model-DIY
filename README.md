@@ -1,5 +1,13 @@
 # Wall-E-Junior
 
+# End result: 
+
+## Voice Controlled movement
+
+## Automatic obstacle avoidance
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/69180570/168704968-d168721e-7a7f-456e-855c-4633aa424935.gif)
+
+
 # 1. Introduction:
 
 Ever since we enrolled in Embedded Systems and heard about the final Project, we have been pondering on what we should make. Our first couple thoughts were vary generic; everyone had the same idea. We wanted to think out of the box, bigger, smarter, and more embedded than ever. With the price of gas rising up and our world being more polluted than ever, in addition to our ambitious ideas:
