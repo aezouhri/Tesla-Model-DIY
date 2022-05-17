@@ -4,8 +4,9 @@
 
 Ever since we enrolled in Embedded Systems and heard about the final Project, we have been pondering on what we should make. Our first couple thoughts were vary generic; everyone had the same idea. We wanted to think out of the box, bigger, smarter, and more embedded than ever. With the price of gas rising up and our world being more polluted than ever, in addition to our ambitious ideas:
 We would like to present our very own Bluetooth controlled car, or what we like to call our “Tesla”.
+![20220505_194848 (2)](https://user-images.githubusercontent.com/69180570/168703203-d9f6f247-b9c5-4e1e-8c84-17f529122239.jpg)
 
-![Image](![20220505_194848 (1)](https://user-images.githubusercontent.com/69180570/168703110-ef2b2d04-4b24-42e0-9b21-1fb922edd5b3.jpg))
+
 Now we know what you’re thinking, “Group 7, this hardly sounds like a feasible project, and even if you did get it to work, what makes you think it could compete with the visionary cars of today?”. Well, what if we told you, that our “Tesla” has everything a driver could ever ask for, and more.
 
 
