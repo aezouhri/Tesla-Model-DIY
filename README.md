@@ -2,9 +2,14 @@
 
 # End result: 
 
-## Voice Controlled movement
+### Voice Controlled movement
 
-## Automatic obstacle avoidance
+This car responds to the voice commands "Forward", "Backwards", "Left", "Right" and "Stop" and does each one accordingly
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/69180570/168705336-7b1e2146-87b6-4632-9869-b6b0d46c8c7c.gif)
+
+### Automatic obstacle avoidance
+
+We've made it so our vehicle automatically avoids obsticals using an ultrasonic sensor
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/69180570/168704968-d168721e-7a7f-456e-855c-4633aa424935.gif)
 
 
