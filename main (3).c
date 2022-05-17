@@ -2,7 +2,7 @@
 * FinalProject.c
 *
 * Created: 4/24/2022 8:03:06 PM
-* Author : Adnane Ezouhri
+* Author : Adnane Ezouhri, Joslin Some
 */
 
 
