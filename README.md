@@ -22,7 +22,9 @@ While we wanted to add extra features in our project, after multiple conversatio
 Our project, being a car prototype will of course include 4 wheels, and in our case 4 motors. The motors will be connected in pairs to two L293D motor drivers. As the brain of this project, we will be using an Arduino UNO R3 powering and ATMega328p micro-controller. The multiple LEDs on our car used as front and back lights as well as indicators will be connected to a breadboard in a first instance before connecting some inputs to control them accordingly with our Arduino. In addition, our ultrasonic sensor will be connected directly to our Arduino to avoid any unnecessary extra delays and power consumption issue as the Arduino can get overwhelmed due to the LEDs and computation it has to do. Finally, the TAs for this course directed our attention to power consumption as the DC motors need a greater power to work efficiently. Hence, we have decided to opt for an external battery to accommodate for the needs of our DC motors.
 
 # (2.b) Schematic
- 
+
+ <img width="534" alt="Screen Shot 2022-05-16 at 7 42 03 PM" src="https://user-images.githubusercontent.com/69180570/168704457-cb8db208-92f4-4510-9ed4-4af71f1406fc.png">
+
 # (2.c) Software description
 
 For the software, we created multiple functions to help us with our tasks.
