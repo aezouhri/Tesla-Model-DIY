@@ -19,7 +19,7 @@ We've made it so our vehicle automatically avoids obsticals using an ultrasonic 
 Ever since we enrolled in Embedded Systems and heard about the final Project, we have been pondering on what we should make. Our first couple thoughts were vary generic; everyone had the same idea. We wanted to think out of the box, bigger, smarter, and more embedded than ever. With the price of gas rising up and our world being more polluted than ever, in addition to our ambitious ideas:
 We would like to present our very own Bluetooth controlled car, or what we like to call our “Tesla”.
 
-&emsp;&emsp;&emsp;&emsp;![20220505_194848 (4)](https://user-images.githubusercontent.com/69180570/168703806-0c3fe1e1-bded-4079-b818-1950e3b471fa.jpg) &emsp;&emsp;&emsp;&emsp;;![20220505_194840 (2)](https://user-images.githubusercontent.com/69180570/168703810-7f50b565-3d86-4952-81a3-3816bd331eae.jpg)
+&emsp;&emsp;&emsp;&emsp;![20220505_194848 (4)](https://user-images.githubusercontent.com/69180570/168703806-0c3fe1e1-bded-4079-b818-1950e3b471fa.jpg) &emsp;&emsp;&emsp;&emsp;![20220505_194840 (2)](https://user-images.githubusercontent.com/69180570/168703810-7f50b565-3d86-4952-81a3-3816bd331eae.jpg)
 
 
 
