@@ -6,7 +6,7 @@ Ever since we enrolled in Embedded Systems and heard about the final Project, we
 We would like to present our very own Bluetooth controlled car, or what we like to call our “Tesla”.
 
 ![20220505_194840](https://user-images.githubusercontent.com/69180570/168703402-9e6ec294-822f-41e6-b8ac-a1857c3025ba.jpg)
-      ![20220505_194840 (1)](https://user-images.githubusercontent.com/69180570/168703642-da830a47-2536-4031-bd86-baf3bc2aa8c5.jpg)
+![20220505_194848 (3)](https://user-images.githubusercontent.com/69180570/168703683-7b54bdaf-302a-4faf-9683-cea8c413e771.jpg)
 
 
 
