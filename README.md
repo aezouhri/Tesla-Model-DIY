@@ -17,8 +17,8 @@ Our goal was to successfully build a car and be able to control it using a Bluet
   
 In addition, another feature we thought would be interesting to add is object detection. As our “Tesla” will be driving down the halls of the Seamans Center, we wouldn’t want I to accidently bumped into someone (or something idk yet).
 While we wanted to add extra features in our project, after multiple conversation with Pr. Beichel, we understood that with the amount of time given we’d only be able to implement our main features on top of the DC motors implementation and getting the required components.
-2. Implementation:
-(2.a) Overview: big picture of the project HW&SW components, outline interaction between components
+# 2. Implementation:
+# (2.a) Overview: big picture of the project HW&SW components, outline interaction between components
 Our project, being a car prototype will of course include 4 wheels, and in our case 4 motors. The motors will be connected in pairs to two L293D motor drivers. As the brain of this project, we will be using an Arduino UNO R3 powering and ATMega328p micro-controller. The multiple LEDs on our car used as front and back lights as well as indicators will be connected to a breadboard in a first instance before connecting some inputs to control them accordingly with our Arduino. In addition, our ultrasonic sensor will be connected directly to our Arduino to avoid any unnecessary extra delays and power consumption issue as the Arduino can get overwhelmed due to the LEDs and computation it has to do. Finally, the TAs for this course directed our attention to power consumption as the DC motors need a greater power to work efficiently. Hence, we have decided to opt for an external battery to accommodate for the needs of our DC motors.
 
 # (2.b) Schematic
@@ -34,7 +34,7 @@ After coding to control each individual wheel, it became easy to make general mo
  
  Finally, we set up our main function to receive commands via the serial monitor or in our case the HC-05 Bluetooth module. We downloaded an android app that allowed us to make voice commands that would send out a value to the Arduino. We made it so that saying “forward” would return ‘f’, ‘backwards’ ‘b’, ‘left’ ‘l’, ‘right’ ‘r’ and ‘stop’ ‘s’. Doing this allowed us to get our desired actions based on our given voice commands as shown below.
  
-3. Experimental methods:
+# 3. Experimental methods:
 As we started our project, we decided to break down the different features, our group’s mindset was to get each part to work independently from each other to then merge all of our work together and tune it to build dependencies between our features.
 The first one we started with was the Bluetooth module:
 We initialized the module, similarly to what we did in lab5 by setting the correct baud rate, stop bit, and enabling the receiver and transmitter. When this was finished, it was easy enough to communicate with our device through the serial monitor.
