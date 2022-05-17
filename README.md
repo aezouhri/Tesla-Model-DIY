@@ -4,6 +4,7 @@
 
 Ever since we enrolled in Embedded Systems and heard about the final Project, we have been pondering on what we should make. Our first couple thoughts were vary generic; everyone had the same idea. We wanted to think out of the box, bigger, smarter, and more embedded than ever. With the price of gas rising up and our world being more polluted than ever, in addition to our ambitious ideas:
 We would like to present our very own Bluetooth controlled car, or what we like to call our “Tesla”.
+
 ![20220505_194848 (2)](https://user-images.githubusercontent.com/69180570/168703203-d9f6f247-b9c5-4e1e-8c84-17f529122239.jpg)
 
 
